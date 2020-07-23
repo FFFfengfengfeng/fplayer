@@ -1,0 +1,5 @@
+package cate
+
+func GetCate() {
+
+}
